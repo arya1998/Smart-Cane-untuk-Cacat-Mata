@@ -47,7 +47,7 @@ Berikut adalah koneksi untuk setiap bagian:
 
 ## Uploading the Sketch for the Arduino Smart Cane
 Sekarang saatnya meng-*upload sketch*. *sketch* untuk Arduino diberikan di bawah ini, salinlah ini ke dalam IDE Arduino, lalu *upload* ke papan Arduino Anda.
-```python
+```c
 #define trigPin 13
 #define echoPin 12
 #define motor 7
@@ -95,3 +95,8 @@ Nah sekarang saatnya menggabungkan keseluruhan material sehingga Smart Cane akan
 Ini adalah bagian terberat dari project ini. Temukan kotak yang dapat digunakan untuk memasukkan semua perangkat keras. Buat dua lubang untuk pemasangan *Ultrasonic Sensor* di tutup kotak seperti yang ditunjukkan pada gambar. peletakkan *buzzer* di luar kotak agar terdengar lebih baik. Selanjutnya, pasang *toggle switch* (pasang di bagain tongkat yang kalian inginkan, sebagai contoh *toggle switch* dipasang pada bagian luar kotak). Pasang baterai di dalam kotak dan sambungkan *Power Jack* ke *Arduino Uno*.
 
 Sekarang pasang kotak ke tongkat menggunakan sekrup atau lem. Dalam project ini menggunakan kabel zip karena cukup kuat. Setelah menempelkan kotak ke tongkat.
+
+![Dokumentasi 1](/1.jpg)
+![Dokumentasi 2](/114012.jpg)
+![Dokumentasi 3](/114013.jpg)
+![Dokumentasi 4](/114016.jpg)
